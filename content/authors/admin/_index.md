@@ -15,16 +15,16 @@ education:
     year: 2016
 email: lewend.mayiwar@bi.no
 interests:
+- Everything open science
+- Replications
 - Judgment and decision making
 - Emotions and emotion regulation
 - Psychological distance
-- Replications
-- Open science
 name: Lewend Mayiwar
 organizations:
 - name: BI Norwegian Business School
   url: "https://www.bi.edu/"
-role: PhD Candidate
+role: PhD Candidate (expected 2023)
 social:
 - icon: envelope
   icon_pack: fas

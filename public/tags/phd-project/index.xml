@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PhD Project | Lewend Mayiwar</title>
+    <link>/tags/phd-project/</link>
+      <atom:link href="/tags/phd-project/index.xml" rel="self" type="application/rss+xml" />
+    <description>PhD Project</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>PhD Project</title>
+      <link>/tags/phd-project/</link>
+    </image>
+    
+    <item>
+      <title>PhD Project</title>
+      <link>/project/phd-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/phd-project/</guid>
+      <description>&lt;p&gt;In my PhD project, I examine how specific emotion regulation strategies differentially impact risky decisions and cognitive processing (i.e., reliance on analytical vs. inutitive thinking). One form of emotion regulation that I have become increasingly interested in is known as &amp;ldquo;psychological distancing&amp;rdquo;. While psychological distancing can occur directly by voluntarily adopting an objective and distant perspective on an emotional situation, psychological distancing can also occur indirectly. For instance, making decisions for strangers or for events that are far in the distant future activates abstract mental representations where people and events feel psychologically distant. Recent studies have demonstrated that psychological does indeed influence risky decision making, where findings indicate less risk taking and reduced emotional intensity when making decisions in psychologically distant scenarios. However, we still don&amp;rsquo;t know how exactly these effects occur. That is, is the relationship between psycological distance and risk taking explained by reduced affective intensity and more &amp;ldquo;rational&amp;rdquo; thinking? This PhD project aims to dig deeper into these questions by assessing emotional, physiological, and cognitive mechansisms.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
