@@ -13,4 +13,4 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 110
 +++
-<a class="twitter-timeline" href="https://twitter.com/LewendM?ref_src=twsrc%5Etfw">Tweets by LewendM</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="800" data-height="600" data-theme="light" href="https://twitter.com/LewendM?ref_src=twsrc%5Etfw">Tweets by LewendM</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
