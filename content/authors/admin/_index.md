@@ -35,6 +35,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Z-FRXGkAAAAJ&hl=en&oi=ao
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Lewend_Mayiwar2
 - icon: github
   icon_pack: fab
   link: https://github.com/lewendm
