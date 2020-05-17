@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ReproducibiliTea | Lewend Mayiwar</title>
+    <link>/tags/reproducibilitea/</link>
+      <atom:link href="/tags/reproducibilitea/index.xml" rel="self" type="application/rss+xml" />
+    <description>ReproducibiliTea</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>ReproducibiliTea</title>
+      <link>/tags/reproducibilitea/</link>
+    </image>
+    
+    <item>
+      <title>ReproducibiliTea BI Oslo</title>
+      <link>/project/reprobi/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/reprobi/</guid>
+      <description>&lt;p&gt;Following the replication and reproducibility crisis that started around 2015, scientists have increasingly made calls to change the way research is conducted. This, in turn, has led to the &amp;ldquo;open science&amp;rdquo; movement which aims to increase the transparency and reproducibility of the scientific process. As a response to these issues, both researchers and journals are increasingly adopting open science practices. For instance, more researchers are sharing their data and code. Similarly, journals are implementing measures to reduce publication bias. With all of these changes taking place in the scientific world, I believe that becoming familiar with open science is essential.&lt;/p&gt;
+&lt;p&gt;With the aim of raising awareness of these issues, a colleague and I have set up an open science journal club at our department where people can get together and discuss everything related to open science. ReproducibiliTea is an initiative started by a group of early career researchers at Oxford University in 2018. More than 90 institutions around the world have now joined this initiative by setting up their own journal club. We are happy that ReproducibiliTea BI Oslo is the first journal club in Norway.&lt;/p&gt;
+&lt;p&gt;Interested in finding out more about the ReproducibiliTea initative? Visit &lt;a href=&#34;https://reproducibilitea.org/&#34;&gt;https://reproducibilitea.org/&lt;/a&gt; and follow us on Twitter @BIOsloTea!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

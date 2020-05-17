@@ -18,7 +18,7 @@ interests:
 - Everything open science
 - Replications
 - Judgment and decision making
-- Emotions and emotion regulation
+- Emotions
 - Psychological distance
 name: Lewend Mayiwar
 organizations:
@@ -47,5 +47,5 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate at the Department of Leadership & Organizational Behavior at BI Norwegian Business School. My PhD project seeks to understand how emotions and emotion regulation influence risky decisions and cognitive processing (i.e., analytical vs. intuitive thinking). I conduct experiments in a laboratory setting where we use physiological tools that allow us to measure skin conductance and heart rate variability. Recently, we have started experimenting with virtual reality headsets as well. I am a big fan of open and reproducible science (in other words, the way science should be done).
+Hi there! I am a PhD candidate at the Department of Leadership & Organizational Behavior at BI Norwegian Business School. My PhD project seeks to understand how emotions influence decisions involving risk and uncertainty. Methodologically, I primarily use experiments in order to uncover the causal nature of the relationships. I am a big fan of open and reproducible science. I have set up an open science journal club at our department (ReproducibiliTea BI Oslo) that I am currently co-organizing together with another PhD candidate. The goal of our journal club is to raise awareness of open science and reproducibility (see "Projects" for more info).
 

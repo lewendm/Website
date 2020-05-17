@@ -30,7 +30,7 @@ subtitle = ""
     tag = "PhD Project"
   
   [[content.filter_button]]
-    name = "Other"
+    name = "ReproducibiliTea BI Oslo"
     tag = ""
 
 [design]
