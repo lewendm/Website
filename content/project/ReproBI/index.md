@@ -10,7 +10,7 @@ links:
   name: Follow
   url: https://twitter.com/BIOsloTea
 slides: "#"
-summary: ReprodubiliTea BI Oslo, an open science journal club
+summary: An open science journal club
 tags:
 - ReproducibiliTea
 title: ReproducibiliTea BI Oslo
