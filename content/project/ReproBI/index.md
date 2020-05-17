@@ -13,7 +13,7 @@ slides: "#"
 summary: An open science journal club
 tags:
 - ReproducibiliTea
-title: ReproducibiliTea BI Oslo
+title: ReproducibiliTea BI Oslo - an open science journal club
 url_code: ""
 url_pdf: ""
 url_slides: "#"
