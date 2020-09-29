@@ -47,5 +47,5 @@ user_groups:
 - Visitors
 ---
 
-Hi! I am a PhD candidate at the Department of Leadership & Organizational Behavior at BI Norwegian Business School. My PhD project seeks to understand how emotions influence decisions involving risk and uncertainty. Methodologically, I primarily use experiments in order to uncover the causal nature of the relationships. I am a big fan of open and reproducible science. I have set up an open science journal club at our department (ReproducibiliTea BI Oslo) that I am currently co-organizing together with another PhD candidate. The goal of our journal club is to raise awareness of open science and reproducibility (see "Projects" for more info).
+Hi! I am a PhD candidate at the Department of Leadership & Organizational Behavior at BI Norwegian Business School. My PhD project seeks to understand how emotions influence decisions involving risk and uncertainty. Methodologically, I primarily use experiments in order to uncover the causal nature of the relationships. I am a big fan of open and reproducible science. Together with a colleague and PhD candidate, we have set up an open science journal club at our department (ReproducibiliTea BI Oslo) that we are organizing together. The goal of our journal club is to raise awareness of open science and reproducibility (see "Projects" for more info).
 
