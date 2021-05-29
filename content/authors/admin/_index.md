@@ -15,7 +15,7 @@ education:
     year: 2016
 email: lewend.mayiwar@bi.no
 interests:
-- Everything open science
+- Everything open science and
 - Replications
 - Judgment and decision making
 - Emotions
