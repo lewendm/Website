@@ -21,7 +21,7 @@ summary: A growing line of research has shown that individuals can regulate emot
 title: Fear from Afar, Not So Risky After All. Distancing Moderates the Relationship Between Fear and Risk Taking
 url_code: ""
 url_dataset: ""
-url_pdf: "preprint_fearfromafar.pdf"
+url_pdf: "fearfromafar.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
