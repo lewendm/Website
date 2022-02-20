@@ -19,8 +19,8 @@
   weight = 3
   
   [[main]]
-  name = "Slides"
-  url = "#slides/prereg"
+  name = "Talks"
+  url = "#talk"
   weight = 4
 
 [[main]]
